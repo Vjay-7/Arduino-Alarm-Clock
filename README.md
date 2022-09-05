@@ -1,6 +1,6 @@
 ## Arduino-Alarm-Clock
 
-Personal project using arduino and DS3231 module and Liquid Crystal Display
+Personal project using Arduino UNO, DS3231 module and Liquid Crystal Display
 
 ***Code and Circuit Reference***
 - https://www.arduino.cc/reference/en/libraries/liquidcrystal/
